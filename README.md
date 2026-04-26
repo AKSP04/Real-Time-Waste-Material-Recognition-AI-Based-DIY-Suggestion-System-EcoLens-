@@ -173,13 +173,32 @@ User → Camera Capture → Image Preprocessing (Base64)
 
 ## 📱 Screenshots
 
-| Login / Register | Dashboard | Camera Scan |
-|:-:|:-:|:-:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Camera](screenshots/camera.png) |
+<p align="center">
+  <img src="screenshots/applogo.png" width="160" alt="App Logo"/><br/>
+  <em>App Logo</em>
+</p>
 
-| Detection Confirmation | DIY Suggestions | Firebase Console |
-|:-:|:-:|:-:|
-| ![Detection](screenshots/detection.png) | ![Suggestions](screenshots/suggestions.png) | ![Firebase](screenshots/firebase.png) |
+<p align="center">
+  <img src="screenshots/login.png" width="250" alt="Login"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/dashboard.png" width="250" alt="Dashboard"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/camera.png" width="250" alt="Camera Scan"/>
+</p>
+<p align="center">
+  <em>Login / Register &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camera Scan</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/detection.png" width="250" alt="Detection Confirmation"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/suggestions.png" width="250" alt="DIY Suggestions"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/firebase.png" width="250" alt="Firebase Encrypted"/>
+</p>
+<p align="center">
+  <em>Detection Confirmation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIY Suggestions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebase Encrypted</em>
+</p>
 
 > 📁 Add your screenshots to a `screenshots/` folder in the root of the repo.
 
