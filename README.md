@@ -174,7 +174,7 @@ User → Camera Capture → Image Preprocessing (Base64)
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/applogo.png" width="160" alt="App Logo"/><br/>
+  <img src="applogo.jpg" width="160" alt="App Logo"/><br/>
   <em>App Logo</em>
 </p>
 
@@ -183,16 +183,16 @@ User → Camera Capture → Image Preprocessing (Base64)
   &nbsp;&nbsp;
   <img src="screenshots/dashboard.png" width="250" alt="Dashboard"/>
   &nbsp;&nbsp;
-  <img src="screenshots/camera.png" width="250" alt="Camera Scan"/>
+  <img src="capture1.jpg" width="250" alt="Camera Scan"/>
 </p>
 <p align="center">
   <em>Login / Register &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camera Scan</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/detection.png" width="250" alt="Detection Confirmation"/>
+  <img src="confirmation.jpg" width="250" alt="Detection Confirmation"/>
   &nbsp;&nbsp;
-  <img src="screenshots/suggestions.png" width="250" alt="DIY Suggestions"/>
+  <img src="suggestion1.jpg" width="250" alt="DIY Suggestions"/>
   &nbsp;&nbsp;
   <img src="screenshots/firebase.png" width="250" alt="Firebase Encrypted"/>
 </p>
