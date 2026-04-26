@@ -200,8 +200,6 @@ User → Camera Capture → Image Preprocessing (Base64)
   <em>Detection Confirmation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIY Suggestions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebase Encrypted</em>
 </p>
 
-> 📁 Add your screenshots to a `screenshots/` folder in the root of the repo.
-
 ---
 
 ## 🔮 Future Enhancements
