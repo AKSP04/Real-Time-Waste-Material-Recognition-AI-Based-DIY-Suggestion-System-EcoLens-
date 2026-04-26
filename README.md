@@ -179,9 +179,9 @@ User → Camera Capture → Image Preprocessing (Base64)
 </p>
 
 <p align="center">
-  <img src="screenshots/login.png" width="250" alt="Login"/>
+  <img src="login.png" width="250" alt="Login"/>
   &nbsp;&nbsp;
-  <img src="screenshots/dashboard.png" width="250" alt="Dashboard"/>
+  <img src="dashboard.png" width="250" alt="Dashboard"/>
   &nbsp;&nbsp;
   <img src="capture1.jpg" width="250" alt="Camera Scan"/>
 </p>
@@ -194,7 +194,7 @@ User → Camera Capture → Image Preprocessing (Base64)
   &nbsp;&nbsp;
   <img src="suggestion1.jpg" width="250" alt="DIY Suggestions"/>
   &nbsp;&nbsp;
-  <img src="screenshots/firebase.png" width="250" alt="Firebase Encrypted"/>
+  <img src="firebaseencrypted.jpg" width="250" alt="Firebase Encrypted"/>
 </p>
 <p align="center">
   <em>Detection Confirmation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIY Suggestions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebase Encrypted</em>
